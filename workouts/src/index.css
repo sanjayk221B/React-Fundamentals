@@ -1,0 +1,31 @@
+.user-container {
+    border: 5px solid rgb(61, 57, 57);
+    border-radius: 20px;
+    background-color: aquamarine;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 1%;
+}
+
+.counter-container {
+    border: 5px solid rgb(61, 57, 57);
+    background-color: ;
+    border-radius: 230px;
+    width: 40%;
+    height: 200px;
+    margin: 100px auto 0;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center;
+    justify-content: center;
+}
+
+.button {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 200px;
+}
+
